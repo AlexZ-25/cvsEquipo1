@@ -1,0 +1,43 @@
+body{
+    background: rgb(0, 21, 211);
+    font-family: 'Roboto Mono','IBM Plex Sans Arabic', Arial, Helvetica, sans-serif;
+}
+
+h4{
+    text-align: center;
+
+}
+
+.profilePhoto{
+    background: #fff;
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    /* display: inline-flex; */
+    background-image: url("./../assets/images/Alexis.Castillo.jpg");
+    background-size: 150px;
+    float: left;
+}
+
+.profileInfo{
+
+    background: #fff;
+    height: 150px;
+    width: 320px;
+    border-radius: 5%;
+    display: inline-block;
+    color: #000;
+    text-align: center;
+}
+
+.contentInfo{
+    background: #fff;
+    height: 200px;
+    width: 470px;
+    color: #000;
+    text-align: left;
+    margin-top: 25px;
+    border-radius: 5%;
+    /* padding: 10px */
+    
+}
