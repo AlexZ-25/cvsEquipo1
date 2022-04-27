@@ -1,0 +1,142 @@
+
+.divA{
+    background-image: url("./..//assets/Imágenes/daniel\ du\ found\ 2.jpg");
+    background-size: 290px;
+    width: 300px;
+    height: 300px;
+    border-radius: 10%;
+    border-top-right-radius: 10%;
+    position: relative;
+    top: 100px;
+    bottom: 0px;
+    right: 0px;
+    left: 40px;
+    background-repeat: no-repeat;
+}
+.divB{
+    background: rgb(59, 160, 226);
+    background-size: 400px;
+    width: 400px;
+    height: 100px;
+    border-radius: 5%;
+    border-top-right-radius: 5%;
+    border-top-left-radius: 5%;
+    border-bottom-left-radius: 5%;
+    border-bottom-right-radius: 5%;
+    position: relative;
+    top: -220px;
+    bottom: 0px;
+    right: 0px;
+    left: 400px;
+    position: relative;
+    top: -200px;
+    left: 420px;
+    right: 0px;
+    font-family: 'Courier New', Courier, monospace;
+    size: 10px;    
+}
+
+
+.Domicilio{
+    position: relative;
+    top: -250px;
+    bottom: 0px;
+    right: 0px;
+    left: 450px;
+}
+
+.Formación{
+    background: rgb(59, 160, 226);
+    width: 800px;
+    border-radius: 5%;
+    border-top-left-radius: 5%;
+    border-top-right-radius: 5%;
+    position: relative;
+    top: -250px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+
+.Pasatiempos{
+    background: rgb(59, 160, 226);
+    width: 800px;
+    border-radius: 3%;
+    border-top-left-radius: 3%;
+    border-top-right-radius: 3%;
+    border-bottom-left-radius: 3%;
+    border-bottom-right-radius: 3%;
+    position: relative;
+    top: -250px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+.f{
+  font-family: 'Courier New', Courier, monospace;
+  size: 10px;
+  position: relative;
+  top: 20px;  
+}
+
+.memorias{
+    position: relative;
+    top: -50px;
+    bottom: 0px;
+    right: 0px;
+    left: 450px;
+}
+
+.redactor{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    top: 50px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+.cauce{
+    
+    position: relative;
+    top: -50px;
+    bottom: 0px;
+    right: 0px;
+    left: 450px;
+}
+
+.tallerista{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    top: 50px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+.asesor{
+    font-family: 'Courier New', Courier, monospace;
+    position: relative;
+    top: 50px;
+    bottom: 0px;
+    right: 0px;
+    left: 0px;
+}
+
+.escuela{
+    position: relative;
+    top: -50px;
+    bottom: 0px;
+    right: 0px;
+    left: 450px;
+}
+
+.fondo{
+    background: rgb(147, 196, 82);
+    background-size: 1000;
+    width: 900px;
+    height: 1300px;
+    
+}
